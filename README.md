@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zawsainan
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning basic Python
-- 💞️ I’m looking to collaborate on some AI projects in the future
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on some web development projects in the future
 - 📫 How to reach me 
 
 <!---
